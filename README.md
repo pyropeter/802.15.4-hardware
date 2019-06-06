@@ -78,6 +78,22 @@ IEEE 802.15.4 Transceiver ICs
 		<a href="https://www.digikey.com/products/en?keywords=cc2520">Digi-Key</a>
 		<a href="https://lcsc.com/search?q=cc2520">LCSC</a></td>
 </tr>
+<tr>
+	<td>Texas Instruments</td>
+	<td>CC1200</td>
+	<td>169, 433, 868, 915, 920 MHz</td>
+	<td>SUN MR-FSK <br> 802.15.4g-2012</td>
+	<td>SPI</td>
+	<td>no</td>
+	<td>yes</td>
+	<td>no</td>
+	<td><a href="http://www.ti.com/product/CC1200">Link</a></td>
+	<td><a href="docs/cc1200.pdf">Datasheet</a>
+		<a href="docs/cc120x-user-guide.pdf">User Guide</a></td>
+	<td><a href="https://www.mouser.de/Search/Refine?Keyword=cc1200&Ns=Pricing%7C0">Mouser</a>
+		<a href="https://www.digikey.com/products/en?keywords=cc1200">Digi-Key</a>
+		<a href="https://lcsc.com/search?q=cc1200">LCSC</a></td>
+</tr>
 </tbody>
 </table>
 
