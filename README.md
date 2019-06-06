@@ -1,4 +1,7 @@
 
+IEEE 802.15.4 Transceiver ICs
+=============================
+
 <table>
 <thead>
 	<th>Manufacturer</th>
@@ -37,7 +40,25 @@
 	<td><a href="https://www.microchip.com/wwwproducts/en/AT86RF212B">Link</a></td>
 	<td><a href="docs/at86rf212b.pdf">Datasheet</a></td>
 </tr>
+<tr>
+	<td>Analog Devices</td>
+	<td>ADF7241</td>
+	<td>2.4 GHz</td>
+	<td>O-QPSK <br> 802.15.4-2006</td>
+	<td>SPI</td>
+	<td>yes</td>
+	<td>no</td>
+	<td>no</td>
+	<td><a href="https://www.analog.com/en/products/adf7241.html">Link</a></td>
+	<td><a href="docs/adf7241.pdf">Datasheet</a></td>
+</tr>
 </tbody>
 </table>
+
+
+Ignored devices
+---------------
+
+* Analog Devices ADF7242: More expensive drop-in-replacement of ADF7241 with support for proprietary PHYs
 
 
