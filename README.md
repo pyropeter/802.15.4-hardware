@@ -14,7 +14,7 @@ IEEE 802.15.4 Transceiver ICs
 	<th>RIOT <br> driver</th>
 	<th>Website</th>
 	<th>Docs</th>
-	<th>Shops<th>
+	<th>Shops</th>
 </thead>
 <tbody>
 <tr>
