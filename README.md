@@ -62,6 +62,22 @@ IEEE 802.15.4 Transceiver ICs
 		<a href="https://www.digikey.com/products/en?keywords=adf7241">Digi-Key</a>
 		<a href="https://lcsc.com/search?q=adf7241">LCSC</a></td>
 </tr>
+<tr>
+	<td>Texas Instruments</td>
+	<td>CC2520</td>
+	<td>2.4 GHz</td>
+	<td>O-QPSK <br> 802.15.4-2006</td>
+	<td>SPI</td>
+	<td>yes</td>
+	<td>yes</td>
+	<td>no</td>
+	<td><a href="http://www.ti.com/product/CC2520">Link</a></td>
+	<td><a href="docs/cc2520.pdf">Datasheet</a>
+		<a href="docs/cc2520-errata.pdf">Errata</a></td>
+	<td><a href="https://www.mouser.de/Search/Refine?Keyword=cc2520&Ns=Pricing%7C0">Mouser</a>
+		<a href="https://www.digikey.com/products/en?keywords=cc2520">Digi-Key</a>
+		<a href="https://lcsc.com/search?q=cc2520">LCSC</a></td>
+</tr>
 </tbody>
 </table>
 
