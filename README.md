@@ -8,9 +8,7 @@ IEEE 802.15.4 Transceiver ICs
 	<th>MPN</th>
 	<th>Bands</th>
 	<th>PHY</th>
-	<th>Linux <br> driver</th>
-	<th>Zephyr <br> driver</th>
-	<th>RIOT <br> driver</th>
+	<th>Drivers</th>
 	<th>Website</th>
 	<th>Docs</th>
 	<th>Shops</th>
@@ -21,9 +19,7 @@ IEEE 802.15.4 Transceiver ICs
 	<td>AT86RF233</td>
 	<td>2.4 GHz</td>
 	<td>O-QPSK <br> 802.15.4-2011</td>
-	<td>yes</td>
-	<td>no</td>
-	<td>yes</td>
+	<td>Linux<br>RIOT</td>
 	<td><a href="https://www.microchip.com/wwwproducts/en/AT86RF233">Link</a></td>
 	<td><a href="docs/at86rf233.pdf">Datasheet</a></td>
 	<td><a href="https://www.mouser.de/Search/Refine?Keyword=at86rf233&Ns=Pricing%7C0">Mouser</a>
@@ -35,9 +31,7 @@ IEEE 802.15.4 Transceiver ICs
 	<td>AT86RF212B</td>
 	<td>769 - 935 MHz</td>
 	<td>O-QPSK, BPSK <br> 802.15.4-2011</td>
-	<td>yes</td>
-	<td>no</td>
-	<td>yes</td>
+	<td>Linux<br>RIOT</td>
 	<td><a href="https://www.microchip.com/wwwproducts/en/AT86RF212B">Link</a></td>
 	<td><a href="docs/at86rf212b.pdf">Datasheet</a></td>
 	<td><a href="https://www.mouser.de/Search/Refine?Keyword=at86rf212b&Ns=Pricing%7C0">Mouser</a>
@@ -49,9 +43,7 @@ IEEE 802.15.4 Transceiver ICs
 	<td>ADF7241</td>
 	<td>2.4 GHz</td>
 	<td>O-QPSK <br> 802.15.4-2006</td>
-	<td>yes</td>
-	<td>no</td>
-	<td>no</td>
+	<td>Linux</td>
 	<td><a href="https://www.analog.com/en/products/adf7241.html">Link</a></td>
 	<td><a href="docs/adf7241.pdf">Datasheet</a></td>
 	<td><a href="https://www.mouser.de/Search/Refine?Keyword=adf7241&Ns=Pricing%7C0">Mouser</a>
@@ -63,9 +55,7 @@ IEEE 802.15.4 Transceiver ICs
 	<td>CC2520</td>
 	<td>2.4 GHz</td>
 	<td>O-QPSK <br> 802.15.4-2006</td>
-	<td>yes</td>
-	<td>yes</td>
-	<td>no</td>
+	<td>Linux<br>Zephyr</td>
 	<td><a href="http://www.ti.com/product/CC2520">Link</a></td>
 	<td><a href="docs/cc2520.pdf">Datasheet</a>
 		<a href="docs/cc2520-errata.pdf">Errata</a></td>
@@ -78,9 +68,7 @@ IEEE 802.15.4 Transceiver ICs
 	<td>CC1200</td>
 	<td>169, 433, 868, 915, 920 MHz</td>
 	<td>SUN MR-FSK <br> 802.15.4g-2012</td>
-	<td>no</td>
-	<td>yes</td>
-	<td>no</td>
+	<td>Zephyr</td>
 	<td><a href="http://www.ti.com/product/CC1200">Link</a></td>
 	<td><a href="docs/cc1200.pdf">Datasheet</a>
 		<a href="docs/cc120x-user-guide.pdf">User Guide</a></td>
@@ -93,9 +81,7 @@ IEEE 802.15.4 Transceiver ICs
 	<td>MCR20A</td>
 	<td>2.4 GHz</td>
 	<td>O-QPSK <br> 802.15.4-2006</td>
-	<td>yes</td>
-	<td>yes</td>
-	<td>no</td>
+	<td>Linux<br>Zephyr</td>
 	<td><a href="https://www.nxp.com/products/wireless/thread/2.4-ghz-802.15.4-wireless-transceiver:MCR20A">Link</a></td>
 	<td><a href="docs/mcr20a.pdf">Datasheet</a>
 		<a href="docs/mcr20a-reference-manual.pdf">Reference Manual</a></td>
@@ -108,9 +94,7 @@ IEEE 802.15.4 Transceiver ICs
 	<td>MRF24J40</td>
 	<td>2.4 GHz</td>
 	<td>O-QPSK <br> 802.15.4-2003</td>
-	<td>yes</td>
-	<td>no</td>
-	<td>no</td>
+	<td>Linux</td>
 	<td><a href="https://www.microchip.com/wwwproducts/en/en027752">Link</a></td>
 	<td><a href="docs/mrf24j40.pdf">Datasheet</a></td>
 	<td><a href="https://www.mouser.de/Search/Refine?Keyword=mrf24j40&Ns=Pricing%7C0">Mouser</a>
