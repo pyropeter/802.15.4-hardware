@@ -110,6 +110,21 @@ IEEE 802.15.4 Transceiver ICs
 		<a href="https://www.digikey.com/products/en?keywords=mcr20a">Digi-Key</a>
 		<a href="https://lcsc.com/search?q=mcr20a">LCSC</a></td>
 </tr>
+<tr>
+	<td>Microchip</td>
+	<td>MRF24J40</td>
+	<td>2.4 GHz</td>
+	<td>O-QPSK <br> 802.15.4-2003</td>
+	<td>SPI</td>
+	<td>yes</td>
+	<td>no</td>
+	<td>no</td>
+	<td><a href="https://www.microchip.com/wwwproducts/en/en027752">Link</a></td>
+	<td><a href="docs/mrf24j40.pdf">Datasheet</a></td>
+	<td><a href="https://www.mouser.de/Search/Refine?Keyword=mrf24j40&Ns=Pricing%7C0">Mouser</a>
+		<a href="https://www.digikey.com/products/en?keywords=mrf24j40">Digi-Key</a>
+		<a href="https://lcsc.com/search?q=mrf24j40">LCSC</a></td>
+</tr>
 </tbody>
 </table>
 
