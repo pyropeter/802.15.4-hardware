@@ -8,7 +8,6 @@ IEEE 802.15.4 Transceiver ICs
 	<th>MPN</th>
 	<th>Bands</th>
 	<th>PHY</th>
-	<th>IF</th>
 	<th>Linux <br> driver</th>
 	<th>Zephyr <br> driver</th>
 	<th>RIOT <br> driver</th>
@@ -22,7 +21,6 @@ IEEE 802.15.4 Transceiver ICs
 	<td>AT86RF233</td>
 	<td>2.4 GHz</td>
 	<td>O-QPSK <br> 802.15.4-2011</td>
-	<td>SPI</td>
 	<td>yes</td>
 	<td>no</td>
 	<td>yes</td>
@@ -37,7 +35,6 @@ IEEE 802.15.4 Transceiver ICs
 	<td>AT86RF212B</td>
 	<td>769 - 935 MHz</td>
 	<td>O-QPSK, BPSK <br> 802.15.4-2011</td>
-	<td>SPI</td>
 	<td>yes</td>
 	<td>no</td>
 	<td>yes</td>
@@ -52,7 +49,6 @@ IEEE 802.15.4 Transceiver ICs
 	<td>ADF7241</td>
 	<td>2.4 GHz</td>
 	<td>O-QPSK <br> 802.15.4-2006</td>
-	<td>SPI</td>
 	<td>yes</td>
 	<td>no</td>
 	<td>no</td>
@@ -67,7 +63,6 @@ IEEE 802.15.4 Transceiver ICs
 	<td>CC2520</td>
 	<td>2.4 GHz</td>
 	<td>O-QPSK <br> 802.15.4-2006</td>
-	<td>SPI</td>
 	<td>yes</td>
 	<td>yes</td>
 	<td>no</td>
@@ -83,7 +78,6 @@ IEEE 802.15.4 Transceiver ICs
 	<td>CC1200</td>
 	<td>169, 433, 868, 915, 920 MHz</td>
 	<td>SUN MR-FSK <br> 802.15.4g-2012</td>
-	<td>SPI</td>
 	<td>no</td>
 	<td>yes</td>
 	<td>no</td>
@@ -99,7 +93,6 @@ IEEE 802.15.4 Transceiver ICs
 	<td>MCR20A</td>
 	<td>2.4 GHz</td>
 	<td>O-QPSK <br> 802.15.4-2006</td>
-	<td>SPI</td>
 	<td>yes</td>
 	<td>yes</td>
 	<td>no</td>
@@ -115,7 +108,6 @@ IEEE 802.15.4 Transceiver ICs
 	<td>MRF24J40</td>
 	<td>2.4 GHz</td>
 	<td>O-QPSK <br> 802.15.4-2003</td>
-	<td>SPI</td>
 	<td>yes</td>
 	<td>no</td>
 	<td>no</td>
