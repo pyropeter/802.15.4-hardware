@@ -94,6 +94,22 @@ IEEE 802.15.4 Transceiver ICs
 		<a href="https://www.digikey.com/products/en?keywords=cc1200">Digi-Key</a>
 		<a href="https://lcsc.com/search?q=cc1200">LCSC</a></td>
 </tr>
+<tr>
+	<td>NXP</td>
+	<td>MCR20A</td>
+	<td>2.4 GHz</td>
+	<td>O-QPSK <br> 802.15.4-2006</td>
+	<td>SPI</td>
+	<td>yes</td>
+	<td>yes</td>
+	<td>no</td>
+	<td><a href="https://www.nxp.com/products/wireless/thread/2.4-ghz-802.15.4-wireless-transceiver:MCR20A">Link</a></td>
+	<td><a href="docs/mcr20a.pdf">Datasheet</a>
+		<a href="docs/mcr20a-reference-manual.pdf">Reference Manual</a></td>
+	<td><a href="https://www.mouser.de/Search/Refine?Keyword=mcr20a&Ns=Pricing%7C0">Mouser</a>
+		<a href="https://www.digikey.com/products/en?keywords=mcr20a">Digi-Key</a>
+		<a href="https://lcsc.com/search?q=mcr20a">LCSC</a></td>
+</tr>
 </tbody>
 </table>
 
