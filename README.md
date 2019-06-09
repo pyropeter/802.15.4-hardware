@@ -101,6 +101,18 @@ IEEE 802.15.4 Transceiver ICs
 		<a href="https://www.digikey.com/products/en?keywords=mrf24j40">Digi-Key</a>
 		<a href="https://lcsc.com/search?q=mrf24j40">LCSC</a></td>
 </tr>
+<tr>
+	<td>Decawave</td>
+	<td>DW1000</td>
+	<td>3.5 - 6.5 GHz</td>
+	<td>UWB <br> 802.15.4-2011</td>
+	<td></td>
+	<td><a href="https://www.decawave.com/product/dw1000-radio-ic/">Link</a></td>
+	<td><a href="docs/dw1000.pdf">Datasheet</a></td>
+	<td><a href="https://www.mouser.de/Search/Refine?Keyword=dw1000&Ns=Pricing%7C0">Mouser</a>
+		<a href="https://www.digikey.com/products/en?keywords=dw1000">Digi-Key</a>
+		<a href="https://lcsc.com/search?q=dw1000">LCSC</a></td>
+</tr>
 </tbody>
 </table>
 
